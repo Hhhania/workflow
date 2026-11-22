@@ -1,0 +1,14 @@
+C:\Users\hania\Desktop\git\workflow\workflow\src\MyApp\bin\Release\net10.0\MyApp.exe
+C:\Users\hania\Desktop\git\workflow\workflow\src\MyApp\bin\Release\net10.0\MyApp.deps.json
+C:\Users\hania\Desktop\git\workflow\workflow\src\MyApp\bin\Release\net10.0\MyApp.runtimeconfig.json
+C:\Users\hania\Desktop\git\workflow\workflow\src\MyApp\bin\Release\net10.0\MyApp.dll
+C:\Users\hania\Desktop\git\workflow\workflow\src\MyApp\bin\Release\net10.0\MyApp.pdb
+C:\Users\hania\Desktop\git\workflow\workflow\src\MyApp\obj\Release\net10.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hania\Desktop\git\workflow\workflow\src\MyApp\obj\Release\net10.0\MyApp.AssemblyInfoInputs.cache
+C:\Users\hania\Desktop\git\workflow\workflow\src\MyApp\obj\Release\net10.0\MyApp.AssemblyInfo.cs
+C:\Users\hania\Desktop\git\workflow\workflow\src\MyApp\obj\Release\net10.0\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\hania\Desktop\git\workflow\workflow\src\MyApp\obj\Release\net10.0\MyApp.dll
+C:\Users\hania\Desktop\git\workflow\workflow\src\MyApp\obj\Release\net10.0\refint\MyApp.dll
+C:\Users\hania\Desktop\git\workflow\workflow\src\MyApp\obj\Release\net10.0\MyApp.pdb
+C:\Users\hania\Desktop\git\workflow\workflow\src\MyApp\obj\Release\net10.0\MyApp.genruntimeconfig.cache
+C:\Users\hania\Desktop\git\workflow\workflow\src\MyApp\obj\Release\net10.0\ref\MyApp.dll
